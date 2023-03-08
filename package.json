@@ -1,0 +1,22 @@
+{
+  "name": "metadatagenerator",
+  "version": "1.0.0",
+  "description": "Tool to auto create NFT metadata and Json files for a Solana Collection.",
+  "main": "metaDataGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Solana",
+    "NFT",
+    "Metadata"
+  ],
+  "author": "Builderby / More Bears",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jimp": "^0.22.7",
+    "node-emoji": "^1.11.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
