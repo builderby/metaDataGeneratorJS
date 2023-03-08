@@ -1,3 +1,5 @@
+![Builderby](https://cdn.discordapp.com/attachments/1034314910563323914/1082805122763067412/IMG_06071.png)
+
 # Metadata Generator
 
 This script generates a collection of NFTs by creating JSON files and PNG files for your Solana collection. It will only use 1 image so this is intended for a collection all with the same art/image. It takes user input for various parameters such as collection size, collection name, collection symbol, collection description, image location, external URL, trait types, trait values, and creator information. The JSON files contain metadata for each NFT, including the image, name, symbol, description, and attributes.<br><br>
