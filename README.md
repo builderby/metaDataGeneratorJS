@@ -14,7 +14,7 @@ This script generates a collection of NFTs by creating JSON files and PNG files 
 
 - Clone the repository to your local machine by running the following command in your terminal:
 
-        git clone https://github.com/username/repo.git
+        git clone https://github.com/builderby/metaDataGeneratorJS.git
 
 - Navigate to the root directory of the cloned repository in your terminal.
 
