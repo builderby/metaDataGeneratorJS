@@ -73,3 +73,7 @@ The script will prompt for the following information:<br><br>
 ## Output<br><br>
 
 The script will generate PNG images and JSON files for each NFT in the collection, and store them in the "images" and "json_files" folders, respectively. The JSON files contain metadata for each NFT, including the name, symbol, description, image, external URL (if provided), attributes, and creator information.
+
+## Buy me a coffee
+
+Solana Wallet: [MorerMW4X2gUzhVRQCNFZJSkxC7wv7zGZqCNz72jGqs](solana:MorerMW4X2gUzhVRQCNFZJSkxC7wv7zGZqCNz72jGqs?label=Buy%20t4top%20a%20coffee&message=Thanks%20for%20your%20support&memo=Solana%20Pay)
